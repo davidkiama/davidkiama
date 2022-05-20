@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-kiama/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/certifiedkiama)
 
-[![davidkiama's github stats](https://github-readme-stats.vercel.app/api?username=davidkiama&count_private=true&show_icons=true&theme=nightowl)]
+[![davidkiama's github stats](https://github-readme-stats.vercel.app/api?username=davidkiama&count_private=true&show_icons=true&theme=nightowl)](https://github.com/davidkiama/) 
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-(https://github.com/davidkiama/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkiama&layout=compact&count_private=true)](https://github.com/davidkiama/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkiama&layout=compact&count_private=true)](https://github.com/davidkiama/)
 
 
 ### Technologies and Tools I use
