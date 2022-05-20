@@ -7,6 +7,11 @@
 
 [![davidkiama's github stats](https://github-readme-stats.vercel.app/api?username=davidkiama&count_private=true&show_icons=true&theme=nightowl)](https://github.com/davidkiama/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkiama&layout=compact&count_private=true)](https://github.com/davidkiama/)
 
+
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidkiama&theme=highcontrast" />
+</a>
+
 ### Technologies and Tools I use
 
 - React, Angular, HTML, CSS, Sass CSS,
