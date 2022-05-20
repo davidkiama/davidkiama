@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/certifiedkiama)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://davidkiama.github.io/Portfolio/)
 
-[![davidkiama's github stats](https://github-readme-stats.vercel.app/api?username=davidkiama&count_private=true&show_icons=true&theme=nightowl)](https://github.com/davidkiama/) 
+[![David Kiama's github stats](https://github-readme-stats.vercel.app/api?username=davidkiama&count_private=true&show_icons=true&theme=nightowl)](https://github.com/davidkiama/) 
 
 
 
