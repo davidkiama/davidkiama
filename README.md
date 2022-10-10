@@ -22,7 +22,7 @@
 
 ### Technologies and Tools I use
 
-- Ember, React, Angular, HTML, CSS, Sass CSS,
+- Ember, React, React Native, Angular, HTML, CSS, Sass CSS,
 - Python, Django, Flask, JavaScript, Node.js, Express
 - Git, Github, Bitbucket, Heroku, Figma, Netlify
 - PostgreSQL, MongoDB
