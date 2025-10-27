@@ -20,12 +20,11 @@
 
 ### Technologies and Tools I use
 
-- Ember, React, Angular, CSS, Sass CSS,
-- JavaScript, Node.js, Express, Cypress
-- Git, Github, Bitbucket, Jenkins, Figma, Netlify
+- Ember, React, Angular, CSS, Sass CSS, Python, Telegram bot development
+- JavaScript, Node.js, Express, Cypress for automated testing
+- Git, Github, Bitbucket, Jenkins, DigitalOcean, Netlify
 - PostgreSQL, MongoDB
 
 ### Currently Learning
 
-- GraphQL
-- Node.js
+- Automation with Python in finance
